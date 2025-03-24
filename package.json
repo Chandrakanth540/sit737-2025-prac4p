@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  },
+  "name": "task4.1",
+  "version": "1.0.0",
+  "description": "cloud Native Unit Task4.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandrakanth",
+  "license": "ISC"
+}
