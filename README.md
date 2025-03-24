@@ -24,10 +24,11 @@ Make sure you have the following installed:
 
 ## **Installation**  
 
-1️⃣ **Clone the repository**  
+1️⃣ **Clone the repository**
+
 ```sh
-git clone https://github.com/yourusername/calculator-microservice.git
-cd calculator-microservice
+git [https://github.com/Chandrakanth540/sit737-2025-prac4p.git]
+cd sit737-2025-prac4p
 ```
 
 2️⃣ **Install dependencies**  
